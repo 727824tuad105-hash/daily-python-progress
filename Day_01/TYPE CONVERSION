@@ -1,6 +1,6 @@
 a=int(input("Enter the number: "))
 b=float(input("Enter the number in decimal: "))
-c=input("Enter your name: ")
+c=input("Enter a number in string format: ")
 
 x=float(a)
 y=float(b)
